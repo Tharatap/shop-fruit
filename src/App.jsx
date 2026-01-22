@@ -11,11 +11,11 @@ import "./App.css";
 
 const PRODUCTS = [
   { id: 1, name: "ทุเรียน (หมอนทอง)", price: 130.0, image: "https://tse3.mm.bing.net/th/id/OIP.ERuXh45vdhNRvMmUK2c7vAHaE8?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" },
-  { id: 2, name: "มังคุด", price: 60.0, image: "https://tse3.mm.bing.net/th/id/OIP.jU-bl4dGU62OgXx5QTEriwHaDt?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" },
+  { id: 2, name: "มังคุด", price: 60.0, image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQql3SrDOkT6AzRY3iLtP48DDyZDNeLyO-_uPVXEGI43V2gO5R8JZv6SGw3assccQLtm4h5L-5tXhyFcBpFmSKhEkbzcYjGhicgQ2xldQ&s=10" },
   { id: 3, name: "ลำไย", price: 48.0, image: "https://watermark.lovepik.com/photo/20211125/large/lovepik-longan-picture_501055319.jpg" },
   { id: 4, name: "มะม่วง (หลายพันธุ์)", price: 85.0, image: "https://farm.vayo.co.th/blog/wp-content/uploads/2022/07/%E0%B8%A1%E0%B8%B0%E0%B8%A1%E0%B9%88%E0%B8%A7%E0%B8%87%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%94%E0%B8%AD%E0%B8%81%E0%B9%84%E0%B8%A1%E0%B9%89%E0%B8%AA%E0%B8%B5%E0%B8%97%E0%B8%AD%E0%B8%87-01-scaled.jpg" },
-  { id: 5, name: "แก้วมังกร", price: 50.0, image: "https://tse4.mm.bing.net/th/id/OIP.3GwsdcdY_Lpc_eA7nAYYlQHaE7?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" },
-  { id: 6, name: "สับปะรด", price: 25.0, image: "https://th.bing.com/th/id/R.8da3c818aff96a3cc683c64a3a577926?rik=tftLEDX3P3mKAg&pid=ImgRaw&r=0" },
+  { id: 5, name: "แก้วมังกร", price: 50.0, image: "https://orgboxthailand.com/wp-content/uploads/2020/09/Organic-Fruits_0016_whitedragonfruit.png" },
+  { id: 6, name: "สับปะรด", price: 25.0, image: "https://png.pngtree.com/png-clipart/20250120/original/pngtree-pineapple-the-tropical-fruit-packed-with-health-benefits-png-image_19952095.png" },
   { id: 7, name: "ฝรั่ง (กิมจู)", price: 28.0, image: "https://th.bing.com/th/id/R.e8d968bffebdf53fb4095c24e4733714?rik=2JRDx6dluC1rlQ&pid=ImgRaw&r=0" },
   { id: 8, name: "มะละกอ", price: 20.0, image: "https://tse4.mm.bing.net/th/id/OIP.cQNOEJHis-AAuHnbHIpjnAHaEK?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" },
   { id: 9, name: "ส้ม / ส้มโอ", price: 22.0, image: "https://tse1.mm.bing.net/th/id/OIP.VIVYwIvxzpYI2FwJ4KQVBwHaFE?cb=12&rs=1&pid=ImgDetMain&o=7&rm=3" },
